@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/static/js/main.99c5b8c7.js",
+    "static/media/avatar.png": "/static/media/avatar.38dbdfa52091eaf676bd.png",
+    "static/media/bk.png": "/static/media/bk.0fcd135980b5cba92dc7.png",
+    "static/media/rojemac.webp": "/static/media/rojemac.1003f3fd12afaa2bcb39.webp",
+    "index.html": "/index.html",
+    "main.99c5b8c7.js.map": "/static/js/main.99c5b8c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.99c5b8c7.js"
+  ]
+}
